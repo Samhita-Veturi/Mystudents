@@ -1,0 +1,22 @@
+h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Dancing Script', cursive;
+}
+body{
+    background: linear-gradient(#7703fc 0%, #a903fc 100%);
+    text-align: center;
+}
+#SubmitB{
+    background-color: rgb(0, 255, 0);
+    color: black;
+    border-radius: 10px;
+    margin: 20px;
+}
+#SortB{
+    background-color: rgb(0, 255, 0);
+    color: black;
+    border-radius: 10px;
+    display: none;
+    margin: 20px;
+}
